@@ -24,6 +24,9 @@
   <a href="https://leetcode.com/u/FeLOz1hLeR/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
+  <a href="https://www.instagram.com/souviksahoo_official?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
 
 <h2 align="center">🚀 Tech Stack</h2>
