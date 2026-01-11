@@ -111,6 +111,17 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souviksahoo20&theme=github_dark" width="100%">
+  <!-- ===================== CONTRIBUTIONS ===================== -->
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!+Let's+build+something+awesome+🚀" />
 </div>
 
 <div align="center">
