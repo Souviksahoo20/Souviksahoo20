@@ -88,31 +88,7 @@
   </table>
 </div>
 
-<h2 align="center">🌟 Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/souviksahoo20/Electricity_Billing_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souviksahoo20&repo=Electricity_Billing_System&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
-  </a>
-
-  <a href="https://github.com/souviksahoo20/Aiportfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souviksahoo20&repo=Aiportfolio&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
-  </a>
-</div>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=souviksahoo20&show_icons=true&count_private=true&hide_border=true&title_color=3EEDB9&icon_color=3EEDB9&text_color=c9d1d9&bg_color=0d1117" alt="Souvik's GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souviksahoo20&layout=compact&hide_border=true&title_color=3EEDB9&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<h2 align="center">👨‍💻 Contribution Activity</h2>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souviksahoo20&theme=github_dark" width="100%">
-  <!-- ===================== CONTRIBUTIONS ===================== -->
-<h2 align="center">🐍 Contribution Graph</h2>
+<h2 align="center"></h2>
 
 <p align="center">
   <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
